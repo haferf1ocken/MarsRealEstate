@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Недвижимость на Марсе</string>
+    <string name="show_all">Показать всё</string>
+    <string name="show_rent">Аренда</string>
+    <string name="show_buy">Покупка</string>
+    <string name="type_rent">В аренду</string>
+    <string name="type_sale">Продаётся</string>
+    <string name="display_type">%s</string>
+    <string name="display_price_monthly_rental">$%,.0f/месяц</string>
+    <string name="display_price">$%,.0f</string>
+</resources>
